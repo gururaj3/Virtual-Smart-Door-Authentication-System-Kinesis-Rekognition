@@ -1,1 +1,1 @@
-# Virtual-Smart-Door-Authentication-System-Kinesis-Rekognition
+# Cloud-Computing-AWS
